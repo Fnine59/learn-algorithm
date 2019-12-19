@@ -41,7 +41,7 @@
 
 计算公式：
 
-![排列计算公式](http://4picture.test.upcdn.net/superbed/2019/11/07/5dc3ca678e0e2e3ee9582676.jpg)
+![排列计算公式](https://pic2.superbed.cn/item/5dc3ca678e0e2e3ee9582676.jpg)
 
 此外，**规定`0! = 1`**。
 
@@ -53,7 +53,7 @@
 
 计算公式：
 
-![组合计算公式](http://4picture.test.upcdn.net/superbed/2019/11/07/5dc3ccae8e0e2e3ee95853c8.jpg)
+![组合计算公式](https://pic2.superbed.cn/item/5dc3ccae8e0e2e3ee95853c8.jpg)
 
 ### 数组与链表
 
@@ -98,7 +98,7 @@
 
 #### 合并排序/归并排序（Merge Sort）
 
-![sortmerge](http://4picture.test.upcdn.net/superbed/2019/12/19/5dfb294376085c3289c55a44.jpg)
+![合并排序](https://pic1.superbed.cn/item/5dfb294376085c3289c55a44.jpg)
 
 比起快速排序时间复杂度受基准值选择的影响导致不够稳定，合并排序的时间复杂度更为稳定，速度仅次于快速排序，为`O(nlogn)`。
 
