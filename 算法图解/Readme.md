@@ -98,7 +98,7 @@
 
 #### 合并排序/归并排序（Merge Sort）
 
-![合并排序原理](http://4picture.test.upcdn.net/superbed/2019/12/19/5dfb294376085c3289c55a44.jpg)
+![sortmerge](http://4picture.test.upcdn.net/superbed/2019/12/19/5dfb294376085c3289c55a44.jpg)
 
 比起快速排序时间复杂度受基准值选择的影响导致不够稳定，合并排序的时间复杂度更为稳定，速度仅次于快速排序，为`O(nlogn)`。
 
